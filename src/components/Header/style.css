@@ -1,0 +1,8 @@
+.headerRoot {
+  background-color: #41cdd7;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}

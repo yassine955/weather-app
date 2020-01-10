@@ -1,0 +1,28 @@
+.inputRoot {
+  padding: 5px;
+  margin-top: 1rem;
+}
+
+.searchfield {
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.searchFieldRoot {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid #a8a8a8;
+}
+
+.btn:hover {
+  box-shadow: 0 0 6px 3px #9d9d9d;
+}

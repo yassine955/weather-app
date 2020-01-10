@@ -1,0 +1,10 @@
+.cardRoot {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 25px;
+  margin-top: 1rem;
+  background-color: #44b8c1;
+  padding: 1rem 0;
+}
